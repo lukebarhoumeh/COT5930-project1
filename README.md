@@ -38,14 +38,6 @@ This project is a cloud-native image upload web application built with **Python*
 - **Dockerfile:** Used for containerizing the application.
 - **requirements.txt:** Lists the Python dependencies for the app.
 
-## Prerequisites
-
-To run this project locally, ensure you have the following:
-
-- Python 3.x
-- Google Cloud SDK
-- A configured Google Cloud Storage bucket
-
 ## Deployment
 
 To deploy the application to Google Cloud Run:
